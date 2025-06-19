@@ -596,12 +596,6 @@ footer{
     color: var(--bgorange);
 }
 
-@media (max-width:1706px){
-    .container{
-        height: 63vh;
-    }
-}
-
 @media (max-width:1500px){
     .faded-text{
         left: 5%;
